@@ -1,5 +1,5 @@
 {
-  'licenses': {
+  'licenses': [
     {
       "key": "Itsuka",
       "isLicensed": true
@@ -9,6 +9,6 @@
       "isLicensed": false
     }
     // ... lisensi lainnya
-}
+  ]
 }
 
