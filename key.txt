@@ -1,0 +1,4 @@
+{
+      'key': 'Itsuka',
+      'expiredDate': '2026-12-31'
+    } 
