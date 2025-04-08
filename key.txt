@@ -1,4 +1,4 @@
 {
-      'key': 'Itsuka',
-      'expiredDate': '2026-12-31'
-    } 
+    "key": "Itsuka",
+    "expiredDate": "2025-12-31"
+}
