@@ -1,12 +1,12 @@
 {
   'licenses': [
     {
-      "key": "Itsuka",
-      "isLicensed": true
+      'key': 'Itsuka',
+      'isLicensed': true
     },
     {
-      "key": "Itsuka_",
-      "isLicensed": false
+      'key': 'Itsuka_',
+      'isLicensed': false
     }
   ]
 }
