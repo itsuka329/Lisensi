@@ -1,0 +1,14 @@
+{
+  'licenses': [
+    {
+      'key': 'Itsuka',
+      'isLicensed': true
+    },
+    {
+      'key': 'Itsuka_',
+      'isLicensed': false
+    }
+    // ... lisensi lainnya
+  ]
+}
+
