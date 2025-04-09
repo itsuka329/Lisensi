@@ -1,16 +1,16 @@
 {
-      'licenses': [
+    "licenses": [
         {
-          'key': 'ITS-1234-ABCD-5678',
-          'owner': '6282215393363',
-          'isLicensed': true,
-          'expiredDate': '2025-12-31'
+            "key": "ITS-1234-ABCD-5678",
+            "owner": "6282215393363",
+            "isLicensed": true,
+            "expiredDate": "2025-12-31"
         },
         {
-          'key': 'ITS-5678-EFGH-9012',
-          'owner': '6281234567890',
-          'isLicensed': false,
-          'expiredDate': '2023-12-31'
+            "key": "ITS-5678-EFGH-90",
+            "owner": "6281234567890",
+            "isLicensed": false,
+            "expiredDate": "2023-12-31"
         }
-      ]
+    ]
 }
