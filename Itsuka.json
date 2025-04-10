@@ -1,17 +1,22 @@
 [
-    {
-        "key": "LISENSI_KEY_1",
-        "owner": "Nama Pemilik 1",
-        "masa_berlaku": "2024-12-31"
-    },
-    {
-        "key": "LISENSI_KEY_2",
-        "owner": "Nama Pemilik 2",
-        "masa_berlaku": "2025-04-10"
-    },
-    {
-        "key": "LISENSI_KEY_3",
-        "owner": "Nama Pemilik 3",
-        "masa_berlaku": "2024-11-30"
-    }
+  {
+    "key": "LISENSI_KEY_1",
+    "owner": "Nama Pemilik 1",
+    "masa_berlaku": "2024-12-31"
+  },
+  {
+    "key": "LISENSI_KEY_2",
+    "owner": "Nama Pemilik 2",
+    "masa_berlaku": "2025-04-10"
+  },
+  {
+    "key": "LISENSI_KEY_3",
+    "owner": "Nama Pemilik 3",
+    "masa_berlaku": "2024-11-30"
+  },
+  {
+    "key": "Itsuka",
+    "owner": "ItsukaAllan",
+    "masa_berlaku": "2025-04-10"
+  }
 ]
