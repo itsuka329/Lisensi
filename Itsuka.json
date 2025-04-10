@@ -2,21 +2,21 @@
   {
     "key": "LISENSI_KEY_1",
     "owner": "Nama Pemilik 1",
-    "masa_berlaku": "2024-12-31"
+    "masa_berlaku": "10-04-2025"
   },
   {
     "key": "LISENSI_KEY_2",
     "owner": "Nama Pemilik 2",
-    "masa_berlaku": "2025-04-10"
+    "masa_berlaku": "11-04-2025"
   },
   {
     "key": "LISENSI_KEY_3",
     "owner": "Nama Pemilik 3",
-    "masa_berlaku": "2024-11-30"
+    "masa_berlaku": "11-04-2025"
   },
   {
     "key": "Itsuka",
     "owner": "ItsukaAllan",
-    "masa_berlaku": "2025-04-10"
+    "masa_berlaku": "11-04-2024"
   }
 ]
