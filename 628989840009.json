@@ -1859,7 +1859,7 @@
         "whitelist": false,
         "rpg": false,
         "daftar": false,
-        "pctime": 1744551150255,
+        "pctime": 1744589292346,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -1870,7 +1870,7 @@
         "limit": 94,
         "coins": 49222,
         "saldo": 0,
-        "exp": 725,
+        "exp": 845,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -16990,7 +16990,8 @@
         "setwelcome": false,
         "sewaExpiry": 0,
         "liststore": {},
-        "nsfw": false
+        "nsfw": false,
+        "antitagsw": false
       },
       "120363315513395999@g.us": {
         "goodbye": true,
