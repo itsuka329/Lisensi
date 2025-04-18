@@ -19268,7 +19268,8 @@
         "setwelcome": false,
         "sewaExpiry": 0,
         "liststore": {},
-        "nsfw": false
+        "nsfw": false,
+        "antitagsw": false
       },
       "6281916835727@s.whatsapp.net": {
         "goodbye": false,
