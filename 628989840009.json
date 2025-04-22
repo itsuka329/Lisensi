@@ -1870,7 +1870,7 @@
         "limit": 94,
         "coins": 49222,
         "saldo": 0,
-        "exp": 1270,
+        "exp": 1285,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -18114,7 +18114,7 @@
       "120363311623867328@g.us": {
         "goodbye": false,
         "welcome": false,
-        "antilink": false,
+        "antilink": true,
         "antibot": false,
         "antibot2": false,
         "antilinktt": false,
