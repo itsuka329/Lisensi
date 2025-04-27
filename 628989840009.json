@@ -7595,7 +7595,7 @@
         "whitelist": false,
         "rpg": false,
         "daftar": false,
-        "pctime": 1739705089288,
+        "pctime": 1745731415170,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -20977,7 +20977,8 @@
         "setwelcome": false,
         "sewaExpiry": 0,
         "liststore": {},
-        "nsfw": false
+        "nsfw": false,
+        "antitagsw": false
       },
       "6287728922720@s.whatsapp.net": {
         "goodbye": false,
